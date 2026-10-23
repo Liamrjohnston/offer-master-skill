@@ -1,0 +1,4 @@
+# Render source stays on this machine. The stage loads fonts from a local path.
+assets/src/
+assets/frames/
+assets/demo.mp4
