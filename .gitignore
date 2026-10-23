@@ -2,3 +2,6 @@
 assets/src/
 assets/frames/
 assets/demo.mp4
+
+__pycache__/
+*.pyc
